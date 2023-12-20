@@ -24,17 +24,15 @@
     <a href="https://github.com/TH1NKING/cs61a-repository"><strong>探索本项目的文档 »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/shaojintian/Best_README_template">查看Demo</a>
+    <a href="https://github.com/TH1NKING/cs61a-repository/tree/main/SAKANA">查看SAKANA</a>
     ·
-    <a href="https://github.com/shaojintian/Best_README_template/issues">报告Bug</a>
+    <a href="https://github.com/TH1NKING/cs61a-repository/tree/main/TH1NKING">查看TH1NKING</a>
     ·
-    <a href="https://github.com/shaojintian/Best_README_template/issues">提出新特性</a>
+    <a href="https://github.com/TH1NKING/cs61a-repository/tree/main/Public">资源公共区</a>
   </p>
 
 </p>
 
-
- 本篇README.md面向开发者
  
 ## 目录
 
