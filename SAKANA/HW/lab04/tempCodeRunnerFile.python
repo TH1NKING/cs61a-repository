@@ -1,0 +1,18 @@
+def merge(lst1, lst2):
+    lst3 = lst1 + lst2
+    def sort_times(lst,x):
+        def sort_person(lst,m):
+            if m==x:
+                return lst
+            if lst[m]>lst[m+1]:
+                lst[m],lst[m+1] = lst[m+1],lst[m]
+            else:
+                return sort_person(lst,m+1)
+        lst = sort_person(lst,0)
+        if x==0:
+            return lst
+        else:
+            return sort_times(lst,x-1)
+    return sort_times(lst3,len(lst3))
+
+merge([1,2,3],[2,3,4])
