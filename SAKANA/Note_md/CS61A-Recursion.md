@@ -1,8 +1,3 @@
----
-title: CS61A-Recursion
-date: 2023-12-15 20:56:23
-tags: Study
----
 # 9_Recursion
 ## Leap of Faith
 
